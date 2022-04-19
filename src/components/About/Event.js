@@ -16,14 +16,14 @@ function Event() {
           Our Team <strong className="purple">Events </strong>
         </h1>
         <p style={{ color: "white" }}>
-          ATLAS LIONS PLAYERS
+          ATLAS LIONS EVENTS FOR 2021
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card">
             <Eventcard
               imgPath={lionsmavrecs}
               isBlog={false}
-              title="CAMP WITH THE MAVRECS"
+              title="CAMP WITH THE MAVRICKS"
               // description="Wegent for the Wumpus game in this project. Before advancing to its room, the agent must kill the Wumpus in its matching room and find the concealed gold."
               link="https://www.instagram.com/p/CbKZafgqkno/"
             />

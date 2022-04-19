@@ -16,36 +16,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> OUR TEAM
             </h1>
             <p className="home-about-body">
-              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-              IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+            ************
+            ************
               <br />
-              <br />ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ:
+              <br />************:
               <i>
-                <b className="purple">JJJJJJKKKKKKKKK </b>
+                <b className="purple">************ </b>
               </i>
               <br />
               <br />
-              IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII &nbsp;
+              ************ &nbsp;
               <i>
-                <b className="purple">WWWWWWWWWWWWWWWWWWWWWWWWW </b> and
-                QQQQQQQQQQQQQQQQQQQQQQQQQQQQ{" "}
+                <b className="purple">************ </b> and
+                ************{" "}
                 <b className="purple">
-                  SSSSSSSSSSSSSSSSSSSSSSSSSSSS
+                ************
                 </b>
               </i>
               <br />
               <br />
-              HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-              with <b className="purple">PPPPPPP</b> and
+              ************
+              with <b className="purple">************</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                  ************
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> JJJJJJJJJJJJJJJJJJJJJJJJ</b>
+                <b className="purple"> ************</b>
               </i>
             </p>
           </Col>

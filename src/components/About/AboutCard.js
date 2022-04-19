@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            HHHHHHHHHHH <span className="purple">OOOOOOOOOOOOOOOOO </span>
-            FFFFFFFFFF <span className="purple"> TTTTTTTTTTTTTTTTTTTTTTTTT</span>
-            <br />IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+            ************ <span className="purple">************ </span>
+            ************ <span className="purple"> ************</span>
+            <br />************
             <br />
             <br />
-            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            ************
           </p>
           <ul>
             <li className="about-activity">
@@ -23,12 +23,12 @@ function AboutCard() {
               <ImPointRight /> Gym.
             </li>
             <li className="about-activity">
-              <ImPointRight /> TTTTTTTT
+              <ImPointRight /> ************
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"{" "}
+            "************"{" "}
           </p>
           <footer className="blockquote-footer">Mehdi</footer>
         </blockquote>
